@@ -1,0 +1,60 @@
+/*Your styles*/
+
+ body {
+    margin: 4px 6px 6px 6px;
+}
+
+/*
+Those classes will be edited at runtime with values specified
+by the settings of the CC application
+*/
+.hostFontColor{}
+.hostFontFamily{}
+.hostFontSize{}
+
+/*font family, color and size*/
+.hostFont{}
+/*background color*/
+.hostBgd{}
+/*lighter background color*/
+.hostBgdLight{}
+/*darker background color*/
+.hostBgdDark{}
+/*background color and font*/
+.hostElt{}
+
+
+.hostButton{
+    border: 1px solid;
+    border-radius: 2px;
+    height: 20px;
+    vertical-align: bottom;
+    font-family: inherit;
+    color: inherit;
+    font-size: inherit;
+}
+
+#infoButton {
+    position: absolute;
+    right: 8px;
+    bottom: 8px;
+    width: 30px;
+    height: 30px;
+    padding-top: 4px;
+    padding-left: 0px;
+}
+
+#homeButton {
+    position: absolute;
+    right: 38px;
+    bottom: 8px;
+    width: 30px;
+    height: 30px;
+    padding-top: 4px;
+    padding-left: 0px;
+}
+
+#siteloader {
+    width: 100%;
+    height: 380px;
+}
