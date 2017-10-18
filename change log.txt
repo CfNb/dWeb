@@ -1,0 +1,9 @@
+////////////////////////////////
+//     |) Web Change Log      //
+////////////////////////////////
+
+10/??/17 v1.1.0(1)
+    - added |) Setup description to info window
+
+04/18/17 v1.0.0
+    - initial release
